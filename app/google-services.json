@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857476532734",
+    "firebase_url": "https://loginandsignup-d62ea-default-rtdb.firebaseio.com",
+    "project_id": "loginandsignup-d62ea",
+    "storage_bucket": "loginandsignup-d62ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857476532734:android:d6fc6a8eb955c9a73598af",
+        "android_client_info": {
+          "package_name": "com.example.loginandregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857476532734-0rtugtl1qi2qfoh02c9l906evdffucn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwP9vcWYPILDFv7GV7gtwaoQZinPOvWpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857476532734-0rtugtl1qi2qfoh02c9l906evdffucn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
